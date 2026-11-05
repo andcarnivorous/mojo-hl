@@ -1,3 +1,4 @@
+;;; mojo.el --- Mojo syntax highlighting  -*- lexical-binding: t; -*-
 ;; Define the keywords, types, and built-in functions of Mojo
 (defvar mojo-keywords
   '("fn" "struct" "let" "var" "inout" "owned" ""))
